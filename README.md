@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 
 >how can I think this?
 >check
+
+
+
+```c
+printf("hello world");
+```
+
